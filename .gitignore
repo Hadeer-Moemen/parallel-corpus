@@ -1,0 +1,11 @@
+__pycache__/
+pool.py
+webapp/*.db
+webapp/*.db-journal
+*.pyc
+*.db
+*.swp
+env/
+*.tar.gz
+*.sqlite
+non-src-archive/
